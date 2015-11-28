@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1448725578 source:c:\users\jón\desktop\verklegt nams\computerheroes\main.cpp
+	"Heroes.h"
+	<fstream>
+	<iostream>
+	<istream>
+	<string>
+	<vector>
+
+1448722192 source:c:\users\jón\desktop\verklegt nams\computerheroes\src\heroes.cpp
+	"Heroes.h"
+	<fstream>
+	<iostream>
+	<istream>
+	<string>
+	<vector>
+
+1448725665 c:\users\jón\desktop\verklegt nams\computerheroes\include\heroes.h
+	<fstream>
+	<iostream>
+	<istream>
+	<string>
+	<vector>
+
